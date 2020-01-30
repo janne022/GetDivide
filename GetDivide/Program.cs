@@ -7,7 +7,7 @@ namespace GetDivide
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("f");
+            Console.WriteLine("love haha!");
             while (true)
             {
                 Console.WriteLine("\nWrite number");
